@@ -6,27 +6,7 @@
 ### Installation :
 
 ```bash
-$ pkg update && pkg upgrade
-
-$ pkg install git python
-
-$ git clone https://github.com/MDAhsanullah/ahsanwifihackmain
-
-$ cd ahsanwifihackmain
-
-$ python Installer.py
-
-$ apt update && apt upgrade
-
-$ pkg install -y root-repo
-$ pkg install -y git tsu python wpa-supplicant pixiewps iw
-
-$ git clone https://github.com/MDAhsanullah/ahsanwifihack
-
-$ cd ahsanwifihack
-
-$ ls
-& sudo python ahsanwifihack.py -i wlan0 -K
+pkg update && pkg upgrade && pkg install git python && git clone https://github.com/MDAhsanullah/ahsanwifihackmain && cd ahsanwifihackmain && python Installer.py && apt update && apt upgrade && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw && git clone https://github.com/MDAhsanullah/ahsanwifihack && cd ahsanwifihack && ls $$ sudo python ahsanwifihack.py -i wlan0 -K
 ```
 
 #### Example : `sudo python ahsanwifihack/ahsanwifihack.py -i wlan0 -K`
