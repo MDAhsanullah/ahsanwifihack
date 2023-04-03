@@ -19,7 +19,7 @@ from typing import Dict
 
 print('''
 \033[1;92m Recoded By Ahsanullah
-con:num:014033232...nai boro
+con:num:014033232...nai boro i'm kidding
 
 One line Command:\nsudo python ahsanwifihack/ahsanwifihack.py -i wlan0 -K\n
 For Help Type:\npython ahsanwifihack/ahsanwifihack.py --help\033[0m
