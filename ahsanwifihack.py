@@ -18,11 +18,11 @@ import csv
 from typing import Dict
 
 print('''
-\033[1;92m Recoded By THBD
-BiRi_B@B@
-Telegram:https://t.me/termux_hacker_bd
-One line Command:\nsudo python Wifi_Hack/birihack.py -i wlan0 -K\n
-For Help Type:\npython Wifi_Hack/birihack.py --help\033[0m
+\033[1;92m Recoded By Ahsanullah
+con:num:014033232...nai boro
+
+One line Command:\nsudo python ahsanwifihack/ahsanwifihack.py -i wlan0 -K\n
+For Help Type:\npython ahsanwifihack/ahsanwifihack.py --help\033[0m
 ''')
 class NetworkAddress:
     def __init__(self, mac):
@@ -1180,12 +1180,12 @@ if __name__ == '__main__':
         except KeyboardInterrupt:
             if args.loop:
                 if input("\n[?] Exit the script (otherwise continue to AP scan)? [N/y] ").lower() == 'y':
-                    print("Aborting…\nStay With\nTHBD")
+                    print("Aborting…\nStay With\nAhsan")
                     break
                 else:
                     args.bssid = None
             else:
-                print("\nAborting…\nStay With\nTHBD")
+                print("\nAborting…\nStay With\nAhsan")
                 break
 
     if args.iface_down:
